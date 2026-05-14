@@ -1,6 +1,6 @@
 # Hi, I'm Hardik 👋
 
-Embedded Software Engineer | Linux System Programming Learner
+Embedded Software Engineer | Linux Internals | RTOS | System Programming
 
 ---
 
